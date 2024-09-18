@@ -10,7 +10,8 @@ namespace FEAasp.Models
         }
 
         public DbSet<contato> contatos { get; set; }
-        
+        public DbSet<Parceiros> Parceiro { get; set; }
+
         internal bool TestConnection()
         {
             throw new NotImplementedException();
