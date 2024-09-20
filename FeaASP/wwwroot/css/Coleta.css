@@ -6,12 +6,19 @@
 }
 
 .localização {
+<<<<<<< HEAD
     color: white;
     background: linear-gradient(90deg, rgba(254,171,98,1) 0%, rgba(242,152,61,1) 53%, rgba(255,120,0,1) 94%);
+=======
+    background: rgb(254,148,0);
+    background: linear-gradient(90deg, rgba(254,148,0,1) 0%, rgba(255,255,255,1) 100%);
+    padding: 20px; /* Ajuste o padding para criar mais espaço interno */
+>>>>>>> 17a2f0f4619940a6c694844cd7a6a95093e1b353
     width: 100%; /* Garantir que o contêiner ocupe toda a largura disponível */
     margin: 0 auto; /* Centraliza o contêiner horizontalmente */
 }
 
+<<<<<<< HEAD
 .p {
     font-size: 20px;
     color: white;
@@ -22,6 +29,11 @@
 .localização img {
     height: 50px; /* Define a altura reduzida */
     width: auto; /* Mantém a proporção da imagem */
+=======
+
+.p {
+    font-size: 20px;
+>>>>>>> 17a2f0f4619940a6c694844cd7a6a95093e1b353
 }
 
 .localização h1 {
@@ -48,6 +60,10 @@
     max-width: 1500px; /* Define uma largura máxima se necessário */
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 17a2f0f4619940a6c694844cd7a6a95093e1b353
     .map-container iframe {
         width: 150%; /* Faz com que o iframe ocupe toda a largura do contêiner pai */
         max-width: 1500px; /* Define uma largura máxima se necessário */
